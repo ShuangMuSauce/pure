@@ -1,2 +1,3 @@
-# pure
-慕课网-纯正商业级应用-微信小程序开发实战(学习笔记)
+# ddBuy
+    学习“Geek-James 公众号「前端甜甜圈」作者“的代码。
+转自这位大佬https://github.com/Geek-James/
