@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc6ad26d5e61aa05789526c7fae55515e16e2776
 # pure
 
 ## Project setup
