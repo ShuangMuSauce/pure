@@ -21,14 +21,17 @@ export default new Router({
         path: '/dashboard',
         name: 'dashboard',
         component: Dashboard,
-        children: [{
+        children: [
+            {
             path: '/dashboard',
             redirect: '/dashboard/home'
-        }, {
+        },
+            {
             path: 'home',
             name: 'home',
             component: Home
-        }, {
+        },
+            {
             path: 'category',
             name: 'category',
             component: Category
